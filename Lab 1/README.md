@@ -4,6 +4,8 @@
 
 **Date:** 8/26/25
 
+### Definitions, Formulas, and Notes
+
 ## 7.1 Power Supply
 
 ### 7.1.1 Setting up the DC voltage bias
