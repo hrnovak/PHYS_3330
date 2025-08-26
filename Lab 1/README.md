@@ -22,17 +22,17 @@ $$R_{eff} = \frac{R}{2}$$
   <img src="https://github.com/hrnovak/PHYS_3330/blob/main/pl1q2.jpg" height="300" />
 </p>
 
-The 75 Ω resistor is in parallel with the 100Ω resistor so their equivalent resistance
+The $75 \Omega$ resistor is in parallel with the $75 \Omega$ resistor so their equivalent resistance
 
 $$\frac{1}{R_{eff,100,75}} = \frac{1}{75} + \frac{1}{100}$$
 
 Therefore, 
 
-$$R_{eff,100,75} = \frac{1}{\frac{1}{75} + \frac{1}{100}} = 42.9\mathrm{\Omega}$$
+$$R_{eff,100,75} = \frac{1}{\frac{1}{75} + \frac{1}{100}} = 42.9\Omega$$
 
-The 50 $$\mathrm{\Omega}$$ resistor is now in series with $$R_{eff}$$ of the other two resistors, so the respective resistances are added so that the total resistance $$R_T$$ is given by 
+The 50 $$\Omega$$ resistor is now in series with $$R_{eff}$$ of the other two resistors, so the respective resistances are added so that the total resistance $$R_T$$ is given by 
 
-$$R_{T} = 42.9 + 50 = 92.9\mathrm{\Omega}$$
+$$R_{T} = 42.9 + 50 = 92.9\Omega$$
 
 
 
@@ -68,9 +68,9 @@ $$C_{total} = \frac{1}{\frac{1}{175} + \frac{1}{50}} = 38.9 nF$$
 
 Using Ohm's law $$V = IR$$ , we can predict the current through the resistor.
 
-The voltage across the circuit is 10 V and the total resistance is 1000 $$\mathrm{\Omega}$$.
+The voltage across the circuit is 10 V and the total resistance is 1000 $$\Omega$$.
 
-$$10 V = I \times (1000 \mathrm{\Omega})$$
+$$10 V = I \times (1000 \Omega)$$
 
 Solving for current we find, 
 
@@ -81,7 +81,7 @@ The power dissipated due to heat is given by
 
 $$P = \frac{(\Delta V)^2}{R}$$
 
-In this circuit $$\Delta V = 10$$ V and $$R = 1000\mathrm{\Omega}$$. By plugging these values into the equation above we get
+In this circuit $$\Delta V = 10$$ V and $$R = 1000\Omega$$. By plugging these values into the equation above we get
 
 $$P = \frac{10^2}{1000} = \frac{100}{1000} = 0.1 W$$
 
