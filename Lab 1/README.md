@@ -15,3 +15,21 @@ Q1: Using banana cables, how would you connect your DMM to the power supply to m
 ## 7.2 The Oscilloscope 
 
 ### 7.2.1 Setting up the Scope
+
+### Measuring a DC voltage on a scope 
+
+## 7.3 Creating an AC waveform using a function generator 
+
+## 7.4 Triggering
+
+## 7.5 Measuring waves with scope 
+
+## 7.6 Measuring Quantities with the Digital Multimeter
+
+## 7.7 Measuring Small Resistances (4-Terminal Measurement)
+
+### 7.7.1 Measure a small resistance using a DMM ohmmeter
+
+### 7.7.2 Measure a small resistance using a 4-terminal approach 
+
+### 7.7.3 Compare the two measurement techniques
