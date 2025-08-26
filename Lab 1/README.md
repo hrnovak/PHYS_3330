@@ -22,7 +22,7 @@ $$R_{eff} = \frac{R}{2}$$
   <img src="https://github.com/hrnovak/PHYS_3330/blob/main/pl1q2.jpg" height="300" />
 </p>
 
-The $75 \mathrm{\Omega}$ resistor is in parallel with the $100 \mathrm{\Omega}$ resistor so their equivalent resistance
+The 75 Ω resistor is in parallel with the 100Ω resistor so their equivalent resistance
 
 $$\frac{1}{R_{eff,100,75}} = \frac{1}{75} + \frac{1}{100}$$
 
