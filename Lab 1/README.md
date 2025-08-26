@@ -2,7 +2,7 @@
 
 ### Question 6.1.1 
 
-*What is the total resistance of two resistors in parallel that each have a resistance $R$?*
+*What is the total resistance of two resistors in parallel that each have a resistance $R$?
 
 The total resistance of two resistors in parallel **$R_{eff}$**, each with a resistance of **R**, is equal to one over the sum of the inverse of each resistors 
 
