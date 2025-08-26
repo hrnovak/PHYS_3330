@@ -1,6 +1,8 @@
-### Pre-Lab Questions
+## Pre-Lab Questions
 
-<b>6.1.1:</b> What is the total resistance of two resistors in parallel that each have a resistance <b>R</b>?
+### Question 6.1.1 
+
+*What is the total resistance of two resistors in parallel that each have a resistance <b>R</b>?*
 
 The total resistance of two resistors in parallel <b>R<sub>eff</b>, each with a resistance of <b>R</b>, is equal to one over the sum of the inverse of each resistors 
 
@@ -11,7 +13,10 @@ so,
 $$R_{eff} = \frac{R}{2}$$
 
 
-<b>6.1.2:</b> Find the total resistance of the combination of resistors shown below.
+
+### Question 6.1.2
+
+*Find the total resistance of the combination of resistors shown below.*
 
 <p align="center">
   <img src="https://github.com/hrnovak/PHYS_3330/blob/main/pl1q2.jpg" height="300" />
@@ -31,14 +36,28 @@ $$R_{T} = 42.9 + 50 = 92.9\mathrm{\Omega}$$
 
 
 
-<b>6.3.1:</b> Calculate the total capacitance of the combination of capacitors shown below.
+### Question 6.3.1
+
+*Calculate the total capacitance of the combination of capacitors shown below.*
 
 <p align="center">
   <img src="https://github.com/hrnovak/PHYS_3330/blob/main/pl1q2.jpg" height="300" />
 </p>
 
+The 75 nF and 100nF capacitors are in parallel, so their capacitances will add:
 
-### 6.4.1
+$$C_{parallel} = 75 + 100 = 175 nF$$
+
+Now $$C_{parallel}$$ is in series with the 50 nF capacitor. Therefore, 
+
+$$\frac{1}{C_{total}} = \frac{1}{175} + \frac{1}{50} = 0.026$$
+
+and thus, 
+
+$$C_{total} = \frac{1}{\frac{1}{175} + \frac{1}{50}} = 38.9 nF$$
+
+
+### Question 6.4.1
 
 #### SPICE diagram
 <p align="center">
@@ -66,14 +85,14 @@ In this circuit $$\Delta V = 10$$ V and $$R = 1000\mathrm{\Omega}$$. By plugging
 
 $$P = \frac{10^2}{1000} = \frac{100}{1000} = 0.1 J$$
 
-<b>Predicted values: </b>
 
-Current: 0.01 A
 
-Power dissipated: 0.1 J
+**Predicted current:** 0.01 A
 
-<b>Simulation values:</b>
+**Predicted power dissipated:** 0.1 W
 
-Current: 
+**Simulated current:** 10 mA or 0.01 A
 
-Power Dissipated: 
+**Simulated power dissipated:** 100 mW or 0.1 W
+
+The simulation values matched the formulas' predictions!
