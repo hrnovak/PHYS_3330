@@ -83,7 +83,7 @@ $$P = \frac{(\Delta V)^2}{R}$$
 
 In this circuit $$\Delta V = 10$$ V and $$R = 1000\mathrm{\Omega}$$. By plugging these values into the equation above we get
 
-$$P = \frac{10^2}{1000} = \frac{100}{1000} = 0.1 J$$
+$$P = \frac{10^2}{1000} = \frac{100}{1000} = 0.1 W$$
 
 
 
