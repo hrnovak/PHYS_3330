@@ -1,4 +1,4 @@
-### Questions
+### Pre-Lab Questions
 
 <b>6.1.1:</b> What is the total resistance of two resistors in parallel that each have a resistance <b>R</b>?
 
@@ -38,4 +38,42 @@ $$R_{T} = 42.9 + 50 = 92.9\mathrm{\Omega}$$
 </p>
 
 
-<b>6.4.1</b>
+### 6.4.1
+
+#### SPICE diagram
+<p align="center">
+  <img src="https://github.com/hrnovak/PHYS_3330/blob/main/Lab%201/pl1q4.jpg" height="300" />
+</p>
+
+
+
+Using Ohm's law $$V = IR$$ , we can predict the current through the resistor.
+
+The voltage across the circuit is 10 V and the total resistance is 1000 $$\mathrm{\Omega}$$.
+
+$$10 V = I \times (1000 \mathrm{\Omega})$$
+
+Solving for current we find, 
+
+$$0.01 = I$$
+
+
+The power dissipated due to heat is given by 
+
+$$P = \frac{(\Delta V)^2}{R}$$
+
+In this circuit $$\Delta V = 10$$ V and $$R = 1000\mathrm{\Omega}$$. By plugging these values into the equation above we get
+
+$$P = \frac{10^2}{1000} = \frac{100}{1000} = 0.1 J$$
+
+<b>Predicted values: </b>
+
+Current: 0.01 A
+
+Power dissipated: 0.1 J
+
+<b>Simulation values:</b>
+
+Current: 
+
+Power Dissipated: 
